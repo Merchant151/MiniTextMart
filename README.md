@@ -1,0 +1,2 @@
+# MiniTextMart
+Soft Dev Project
